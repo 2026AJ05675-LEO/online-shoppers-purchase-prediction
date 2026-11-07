@@ -1,6 +1,6 @@
 # Online Shoppers Purchasing Intention Prediction
 
-**BITS WILP | M.Tech Artificial Intelligence and Machine Learning | Machine Learning Assignment 2**
+**BITS WILP | M.Tech Artificial Intelligence and Machine Learning | Machine Learning Assignment 2 | 2026AJ05675**
 
 ## 1. Problem Statement
 
@@ -282,7 +282,7 @@ online-shoppers-purchase-prediction/
 ├── README.md
 ├── test_data.csv
 ├── final_model_comparison.csv
-└── AIML_Assignment_2.ipynb
+└── online-shoppers-purchase-prediction.ipynb
 ```
 
 ## 10. Future Scope and Potential Improvements
