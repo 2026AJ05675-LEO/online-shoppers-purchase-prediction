@@ -2,6 +2,8 @@
 
 **BITS WILP | M.Tech Artificial Intelligence and Machine Learning | Machine Learning Assignment 2 | 2026AJ05675**
 
+[🚀 Live Streamlit Application](https://2026aj05675-ml-assignment2.streamlit.app/)
+
 ## 1. Problem Statement
 
 The objective of this project is to develop and evaluate machine learning classification models to predict whether an online shopping visitor will generate a purchase (Revenue) based on their browsing behaviour and session characteristics.
@@ -229,7 +231,11 @@ A Streamlit application is developed to demonstrate the evaluation of the traine
 
 ### Live Application
 
-**Streamlit Community Cloud:** To be added after deployment.
+**Streamlit Community Cloud:**
+```bash
+https://2026aj05675-ml-assignment2.streamlit.app/
+```
+
 
 ### Running the application locally
 
