@@ -235,7 +235,20 @@ A Streamlit application is developed to demonstrate the evaluation of the traine
 ```bash
 https://2026aj05675-ml-assignment2.streamlit.app/
 ```
+## How to Test the Live Streamlit Application
 
+Follow these steps to test the deployed application using the sample test dataset:
+
+1. **Download the test dataset:** Open the [GitHub Repository](https://github.com/2026AJ05675-LEO/online-shoppers-purchase-prediction).
+2. Locate the `test_data.csv` file in the repository.
+3. Open the file and click **Download raw file** to save it to your computer.
+4. **Open the deployed application:** [Purchase Intelligence – Live Streamlit App](https://2026aj05675-ml-assignment2.streamlit.app/).
+5. In the application, use the CSV upload option to upload the downloaded `test_data.csv` file.
+6. Select any one of the five available classification models from the model selection dropdown.
+7. Run the evaluation to view the model's performance metrics, confusion matrix, classification report, and dataset preview.
+8. Repeat the process with different models to compare their performance.
+
+**Note:** The sample `test_data.csv` contains both the input features and the actual target column (`Revenue`). This allows the application to calculate evaluation metrics against the actual labels. The application loads the saved model and evaluates the uploaded dataset without retraining.
 
 ### Running the application locally
 
